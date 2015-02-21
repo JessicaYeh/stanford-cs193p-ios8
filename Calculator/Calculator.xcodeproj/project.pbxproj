@@ -13,6 +13,7 @@
 		684B492B1A9695A800659959 /* Images.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 684B492A1A9695A800659959 /* Images.xcassets */; };
 		684B492E1A9695A800659959 /* LaunchScreen.xib in Resources */ = {isa = PBXBuildFile; fileRef = 684B492C1A9695A800659959 /* LaunchScreen.xib */; };
 		684B493A1A9695A800659959 /* CalculatorTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 684B49391A9695A800659959 /* CalculatorTests.swift */; };
+		684B49721A97EEED00659959 /* CalculatorBrain.swift in Sources */ = {isa = PBXBuildFile; fileRef = 684B49711A97EEED00659959 /* CalculatorBrain.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -36,6 +37,7 @@
 		684B49331A9695A800659959 /* CalculatorTests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = CalculatorTests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
 		684B49381A9695A800659959 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
 		684B49391A9695A800659959 /* CalculatorTests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = CalculatorTests.swift; sourceTree = "<group>"; };
+		684B49711A97EEED00659959 /* CalculatorBrain.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = CalculatorBrain.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -79,6 +81,7 @@
 			children = (
 				684B49231A9695A800659959 /* AppDelegate.swift */,
 				684B49251A9695A800659959 /* ViewController.swift */,
+				684B49711A97EEED00659959 /* CalculatorBrain.swift */,
 				684B49271A9695A800659959 /* Main.storyboard */,
 				684B492A1A9695A800659959 /* Images.xcassets */,
 				684B492C1A9695A800659959 /* LaunchScreen.xib */,
@@ -212,6 +215,7 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				684B49721A97EEED00659959 /* CalculatorBrain.swift in Sources */,
 				684B49261A9695A800659959 /* ViewController.swift in Sources */,
 				684B49241A9695A800659959 /* AppDelegate.swift in Sources */,
 			);
