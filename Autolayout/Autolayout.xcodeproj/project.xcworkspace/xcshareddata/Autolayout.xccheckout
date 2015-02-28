@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>IDESourceControlProjectFavoriteDictionaryKey</key>
+	<false/>
+	<key>IDESourceControlProjectIdentifier</key>
+	<string>23C6C5A5-5B5E-4AC7-9363-4317FD4E2246</string>
+	<key>IDESourceControlProjectName</key>
+	<string>Autolayout</string>
+	<key>IDESourceControlProjectOriginsDictionary</key>
+	<dict>
+		<key>003CEAAAD9562B0880E0354D8E0306BC04D555FC</key>
+		<string>https://github.com/JessicaYeh/StanfordiOS8.git</string>
+	</dict>
+	<key>IDESourceControlProjectPath</key>
+	<string>Autolayout/Autolayout.xcodeproj</string>
+	<key>IDESourceControlProjectRelativeInstallPathDictionary</key>
+	<dict>
+		<key>003CEAAAD9562B0880E0354D8E0306BC04D555FC</key>
+		<string>../../..</string>
+	</dict>
+	<key>IDESourceControlProjectURL</key>
+	<string>https://github.com/JessicaYeh/StanfordiOS8.git</string>
+	<key>IDESourceControlProjectVersion</key>
+	<integer>111</integer>
+	<key>IDESourceControlProjectWCCIdentifier</key>
+	<string>003CEAAAD9562B0880E0354D8E0306BC04D555FC</string>
+	<key>IDESourceControlProjectWCConfigurations</key>
+	<array>
+		<dict>
+			<key>IDESourceControlRepositoryExtensionIdentifierKey</key>
+			<string>public.vcs.git</string>
+			<key>IDESourceControlWCCIdentifierKey</key>
+			<string>003CEAAAD9562B0880E0354D8E0306BC04D555FC</string>
+			<key>IDESourceControlWCCName</key>
+			<string>StanfordiOS8</string>
+		</dict>
+	</array>
+</dict>
+</plist>
