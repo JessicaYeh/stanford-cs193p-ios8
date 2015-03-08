@@ -134,13 +134,13 @@
                             <mask key="constraints">
                                 <exclude reference="5hT-my-7I5"/>
                                 <exclude reference="ftD-5V-oFo"/>
+                                <exclude reference="J21-jj-7gt"/>
                                 <exclude reference="63g-DS-Cuw"/>
                                 <exclude reference="Ktm-Px-1ZJ"/>
                                 <exclude reference="Z6a-dx-aP3"/>
                                 <exclude reference="deh-9z-aUa"/>
                                 <exclude reference="jZM-KG-GBl"/>
                                 <exclude reference="kW5-Pb-fDQ"/>
-                                <exclude reference="J21-jj-7gt"/>
                             </mask>
                         </variation>
                         <variation key="heightClass=regular">
@@ -149,6 +149,8 @@
                                 <exclude reference="BuU-cK-lUj"/>
                                 <include reference="ftD-5V-oFo"/>
                                 <exclude reference="zzH-bn-HA0"/>
+                                <include reference="J21-jj-7gt"/>
+                                <exclude reference="bvk-t9-2hh"/>
                                 <include reference="63g-DS-Cuw"/>
                                 <exclude reference="KYX-Kd-5dY"/>
                                 <include reference="Ktm-Px-1ZJ"/>
@@ -161,8 +163,6 @@
                                 <exclude reference="jU9-dc-ZNg"/>
                                 <include reference="jZM-KG-GBl"/>
                                 <include reference="kW5-Pb-fDQ"/>
-                                <include reference="J21-jj-7gt"/>
-                                <exclude reference="bvk-t9-2hh"/>
                             </mask>
                         </variation>
                     </view>
